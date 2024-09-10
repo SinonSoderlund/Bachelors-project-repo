@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1f0019ba512b84990df36ecad218fd, type: 3}
+  m_Name: Room 2
+  m_EditorClassIdentifier: 
+  FullDialogue:
+  - SpeakerName: Survivor
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "Some other survivors went through here, but the gate shut behind
+      them\u2026."
+  - SpeakerName: Survivor
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "It needs power if we\u2019re gonna open it again, but turning
+      on the generators will be noisy and attract zombies... \r\n"
+  - SpeakerName: Survivor
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "I\u2026 I can\u2019t do it\u2026 I\u2019m scared\u2026\r\n"

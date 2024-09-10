@@ -1,0 +1,2 @@
+In order to create a new level it needs to contain all objects in the Scene Vital Folder(the interscene scipt wizzard isnt nessecary per say but u cant test the level without it if your enot entering from the menu),
+ and all other objects that are added to the scene are to be added as children to the world base objects.

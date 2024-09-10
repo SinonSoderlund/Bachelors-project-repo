@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &606742069779292880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 407484495300923071}
+  - component: {fileID: 606742069779292883}
+  m_Layer: 0
+  m_Name: ControllGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &407484495300923071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606742069779292880}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.3154955, y: 18.569967, z: -17.47434}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &606742069779292883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606742069779292880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56193c52210e9bc4ca9ba0f885e44737, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DefinesTextPath: Assets/ControllDefs/ControlsDefs.txt
+  DefinesCsPath: /ControllDefs/ControllDefs.cs
+  InputClasses:
+  - MovementClass
+  - None
+  InputType:
+  - Forward
+  - Back
+  - Left
+  - Right
+  - Sneak
+  - Interact
+  - PauseMenu
+  - FireGun
+  - DialogueNext
+  - DialogueBack
+  NewControllArray:
+  - Name: Forward
+    inputType: 0
+    inputClass: 0
+    inputCode: 324
+    isToggle: 0
+    toggleLocked: 0

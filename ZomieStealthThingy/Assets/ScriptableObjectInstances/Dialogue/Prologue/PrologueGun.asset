@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1f0019ba512b84990df36ecad218fd, type: 3}
+  m_Name: PrologueGun
+  m_EditorClassIdentifier: 
+  FullDialogue:
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "It\u2019s been about two weeks since patient zero.\r\n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "No one knows for sure how it happened. Word on the street is a
+      bioengineering experiment gone wrong. \n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "\u201CGone wrong\u201D is putting it lightly. We\u2019re in the
+      middle of a full-blown zombie apocalypse."
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "I don\u2019t concern myself too much with how it happened. I\u2019m
+      just trying to survive. It\u2019s above my paygrade either way. I\u2019m just
+      a librarian. "
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "The military reacted fast, and managed to contain the mutation
+      before it spread out of the city.\r"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: 'They evacuated people for a while, but eventually decided evacuating
+      more people was too risky. '
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: 'All of the land exits out of the city is under strict watch by
+      armed military personnel.
+
+'
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "They shoot anything that approaches the checkpoints on sight,
+      zombie or not. \r\n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: 'When they stopped evacuating people, there were still a few hundred
+      humans left.
+
+'
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "I think most of them have been turned or eaten by now. \r\n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "I\u2019ve been holed up in my apartment, trying to wait this out.\r\n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "Turns out that won\u2019t work.\r\n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: 'I heard on the radio the military is planning to enter the city
+      and kill anything that moves.
+
+'
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: "I only have a few more hours before this city becomes a battlefield.
+      \r\n"
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: 'I need to find a way to escape. Now.
+
+'
+  - SpeakerName: 
+    SpeakerIcon: {fileID: 0}
+    IconColor: {r: 0, g: 0, b: 0, a: 0}
+    DialogueText: 'Good thing I have my trusty shotgun!
+
+'

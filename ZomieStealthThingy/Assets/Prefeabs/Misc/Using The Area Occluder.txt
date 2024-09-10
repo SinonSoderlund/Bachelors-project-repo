@@ -1,0 +1,2 @@
+When setting up the occlusion area you may want to have the Sprite Shape Controller settin "Update Colliders" On, however you should turn this setting of as you edit/add more colliders in order to configure the 
+areas outside of the occluded are where the area becomes unoccluded. Furthermore remember to make sure that all colliders are set as triggers.

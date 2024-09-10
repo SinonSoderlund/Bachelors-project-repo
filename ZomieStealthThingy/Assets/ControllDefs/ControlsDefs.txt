@@ -1,0 +1,19 @@
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+namespace UtilitySpace
+{
+
+
+    //enums corresponding to various control variables
+    public enum InputClasses { InsertClass };
+    public enum InputType { InsertType }
+
+
+    public static class ControllDefs
+    {
+        static string none;
+        public static Controll[] Controlls = new Controll[] { new Controll(none,0,0,KeyCode.None,false,false) };
+    }
+}

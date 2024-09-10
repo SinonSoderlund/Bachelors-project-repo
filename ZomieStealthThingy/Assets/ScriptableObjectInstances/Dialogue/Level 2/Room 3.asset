@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1f0019ba512b84990df36ecad218fd, type: 3}
+  m_Name: Room 3
+  m_EditorClassIdentifier: 
+  FullDialogue:
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "Psst! Hey, come here! But be quiet!\r"
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "See that zombie over there? The way it\u2019s slowly shuffling
+      about?\r\n"
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "It\u2019s near death. I\u2019ve been watching the zombies since
+      the outbreak. They decay over time. They grow slower, weaker, and their sight
+      and hearing seem to worsen.\r\n"
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "While a newly turned zombie can run at frightening speeds and
+      is stronger than a regular human, these older ones are falling apart. \r\n"
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "I\u2019ve noticed they tend to group up with other aging zombies
+      though, so they can still be dangerous through sheer numbers. \r\n"
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: "I\u2019m not sure why this one is alone.\r\n"
+  - SpeakerName: Nerdy-looking Man
+    SpeakerIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    DialogueText: 'Be careful out there!
+
+'
